@@ -1,6 +1,6 @@
 # Declaração de uso de IA
 
-Ferramenta: GPT-5.5 Pro da OpenAI.
+Ferramenta: GPT-5.5 da OpenAI.
 
 Finalidade:
 - apoio na organização do projeto;
